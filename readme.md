@@ -14,7 +14,7 @@ Para realizar os teste devem ser consideradas algumas etapas:
 Etapa 1 :
 Após clonar o projeto devera rodar os seguintes comandos:
 ```sh
-composer install ou composer update
+composer install
 ```
 ou
 ```sh
